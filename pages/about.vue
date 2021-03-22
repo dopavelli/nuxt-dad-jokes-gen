@@ -1,7 +1,8 @@
 <template>
   <div>
-    <h1>About DadJokes</h1>
-    <p>This is an app that displays corny dad jokes</p>
+    <p>This is an app that displays cheesy, corny and cringy dad jokes.</p>
+    <br />
+    <small>version: 1.0.0</small>
   </div>
 </template>
 

@@ -1,7 +1,8 @@
 <template>
   <div>
-    <h1>Dad Jokes</h1>
-    <h3>Welcome, this is the HomePage</h3>
+    <h3>
+      A single Page Application with cheesy, corny and cringy jokes
+    </h3>
   </div>
 </template>
 
